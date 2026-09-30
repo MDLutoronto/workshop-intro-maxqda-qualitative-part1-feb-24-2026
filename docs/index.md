@@ -29,10 +29,10 @@ workshop-intro-maxqda-qualitative-part2-feb-25-2026) workshop recording that wil
 
 **How:** This is a 1.5-hour in-person workshop (but a shorter recording time due to activity breaks), consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
 
-
-
 [**Recording - 1:04:50**](https://play.library.utoronto.ca/watch/d8bee0965610e6422103ad8a8eefac21)
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/d8bee0965610e6422103ad8a8eefac21" frameborder="0" allowfullscreen> iframe not supported </iframe>
+
+**[Setup Instructions](https://maps.library.utoronto.ca/workshops/MAXQDA/Part1/MAXQDA1SetupInstructions.pdf) (includes how to get slides, workshop files, etc.)**
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA)
